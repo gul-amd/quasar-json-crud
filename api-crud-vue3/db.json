@@ -1,7 +1,16 @@
 {
-    "posts": [
-        { "id": "1", "title": "Quasar e npm Json", "outhor": "Gul-Am", "content": "Este e um artigo sobre as actividade Json e Quasar para api rest" }
-        { "id": "2", "title": "Laravel Json & Postman", "outhor": "Gul-Am", "content": "Neste artigo iremos ter actividades sobre Laravel rast api" }
-    
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Quasar e npm Json",
+      "author": "Gul-Am",
+      "content": "Este e um artigo sobre as actividade Json e Quasar para api rest"
+    },
+    {
+      "id": "2",
+      "title": "Laravel com Json & Postman",
+      "author": "Gul-Am",
+      "content": "Neste artigo iremos ter actividades sobre Laravel rast api"
+    }
+  ]
 }
