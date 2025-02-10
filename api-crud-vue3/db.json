@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": "1",
-      "title": "Laravel com Json & Postman",
+      "title": "Quasar com Json & Postman",
       "author": "Gul-Am",
       "content": "Neste artigo iremos ter actividades sobre Laravel rast api"
     },
     {
-      "id": "4",
-      "title": "Developers for the Future",
-      "author": "Gul-Am",
-      "content": "Comece agora a luta que venceras amanha. estude muito e sempre"
+      "id": "e06a",
+      "title": "Bluzas Azuis",
+      "content": "bla bla bla entre outros contos de fada!",
+      "author": "Gustavo Guanabara"
     }
   ]
 }
